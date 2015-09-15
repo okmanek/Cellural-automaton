@@ -1,0 +1,2 @@
+ Cellural-automaton
+ Implementation of few simple CAs in Python: game of life and rules 30, 60, 90. 
